@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidFileManage</string>
+    <string name="size">已选%1$s</string>
+    <string name="send">发送(%1$s)</string>
+    <string name="count">共%1$s个文件</string>
+    <string name="action_save">保存</string>
+    <string name="action_change_text_size">更换字号</string>
+    <string name="action_change_text_color">更换字色</string>
+    <string name="action_change_background_color">更换背景色</string>
+    <string name="msg_prompt_save_text_file">是否保存？</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_confirm">确定</string>
+</resources>
